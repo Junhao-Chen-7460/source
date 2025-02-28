@@ -23,6 +23,6 @@ public class backTotitle : MonoBehaviour
     {
         Time.timeScale = 1;
         target.target1Number = 4.0f;
-        SceneManager.LoadScene("New Scene");
+        SceneManager.LoadScene("Main Menu");
     }
 }
